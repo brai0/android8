@@ -19,7 +19,7 @@ import com.example.eighthapp.databinding.ActivityMapsBinding;
 
 import java.io.IOException;
 import java.util.List;
-
+//AIzaSyAF6etOf4xxlyHV4tfDOtuUp8iyua9mfUE
 public class MapsActivity extends FragmentActivity implements OnMapReadyCallback {
 
     private GoogleMap mMap;
